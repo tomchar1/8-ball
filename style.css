@@ -1,0 +1,15 @@
+html {
+  background: url("img/galaxy.jpg") no-repeat fixed center;
+  background-size: cover;
+}
+#magic {
+  padding-right: 300px;
+}
+body {
+  background: rgba(255, 255, 255, 0.8);
+  width: 600px;
+  padding: 25px 100px;
+  margin: 25px auto;
+  text-align: left;
+  border-radius: 25px;
+}
